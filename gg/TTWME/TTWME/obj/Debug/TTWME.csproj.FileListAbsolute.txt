@@ -1,0 +1,9 @@
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\bin\Debug\TTWME.exe.config
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\obj\Debug\TTWME.csprojResolveAssemblyReference.cache
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\obj\Debug\TTWME.Form1.resources
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\obj\Debug\TTWME.Properties.Resources.resources
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\obj\Debug\TTWME.csproj.GenerateResource.Cache
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\bin\Debug\TTWME.exe
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\bin\Debug\TTWME.pdb
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\obj\Debug\TTWME.exe
+c:\users\imi\documents\visual studio 2013\Projects\TTWME\TTWME\obj\Debug\TTWME.pdb

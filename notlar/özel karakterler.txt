@@ -1,0 +1,3 @@
+\n alt satıra geç
+\r satır başına git
+\t tab sekme

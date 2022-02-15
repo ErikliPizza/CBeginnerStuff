@@ -1,0 +1,1 @@
+if komutunu kullanýrken birden fazla komut kullanýlacaksa süslü parantez kullanýlmak zorundadýr eðer tek iþlem yapacaksanýz süslü parantez kullanýmýna gerek yoktur 

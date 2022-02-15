@@ -1,0 +1,12 @@
+kaplanýlan boyutu görmek için "Sizeof()" kullanýrýz.
+
+int main ()
+
+{
+
+
+cout<<"char : " << sizeof(char);
+
+}
+
+output = char : "boyut"

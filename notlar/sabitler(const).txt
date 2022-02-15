@@ -1,0 +1,8 @@
+const int ort=12;
+
+int main ()
+{
+
+oran = 26; HATA!
+
+CONST

@@ -1,0 +1,49 @@
+                                                        ARTTIRMA OPERATÖRLERÝ
+
+
+
+
+
+++x x i 1 arttýr öyle yaz
+x++ x i YAZ SONRA 1 arttýr
+--x x i 1 eksilt öyle yaz
+x-- x i YAZ SONRA 1 eksilt
+
+
+                                                      EÞÝTLÝK OPERATÖRLERÝ
+
+
+== eþit
+!= eþit deðil
+> büyük
+< küçük
+>= büyük eþit
+<= küçük eþit
+
+
+ 
+                                                  MANTIKSAL OPERATÖRLER
+
+
+
+&& ve
+|| veya
+^ XOR*
+~ deðil
+
+
+
+       
+                                              ATAMA OPERATÖRLERÝ
+
+
+=     x=y     atama
++=    x+=y    x=x+y
+-x    x-=y    x=x-y
+*=    x*=y    x=x*y
+/=    x/=y    x=x/y
+%=    x%=y    x=x%y
+<<=   x<<=y   x=x<<y
+>>=   x>>=y   x=x>>y
+|=    x|=Y    x=x|y
+&=    x&=y    x=x&y

@@ -1,0 +1,9 @@
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\bin\Debug\AKE.exe.config
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\obj\Debug\AKE.csprojResolveAssemblyReference.cache
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\obj\Debug\AKE.Form1.resources
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\obj\Debug\AKE.Properties.Resources.resources
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\obj\Debug\AKE.csproj.GenerateResource.Cache
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\bin\Debug\AKE.exe
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\bin\Debug\AKE.pdb
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\obj\Debug\AKE.exe
+c:\users\imi\documents\visual studio 2013\Projects\AKE\AKE\obj\Debug\AKE.pdb
